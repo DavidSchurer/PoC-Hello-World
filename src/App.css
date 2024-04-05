@@ -1,5 +1,34 @@
 .App {
-  text-align: center;
+  text-align: left;
+  padding: 10px;
+}
+
+.WelcomeMessage {
+  color: black;
+  border-style:double;
+  display: inline-block;
+  border-width: 5px;
+}
+
+.ShortNarrative {
+  color: black;
+  border-style:double;
+  display: inline-block;
+  border-width:5px;
+}
+
+.Picture {
+  color: black;
+  border-style:double;
+  display: inline-block;
+  border-width: 15px;
+}
+
+.List {
+  color: black;
+  border-style:double;
+  display: inline-block;
+  border-width:5px;
 }
 
 .App-logo {
