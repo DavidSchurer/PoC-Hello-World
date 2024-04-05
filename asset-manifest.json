@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PoC-Hello-World/static/css/main.05a93bc8.css",
+    "main.js": "/PoC-Hello-World/static/js/main.5c8af33e.js",
+    "static/js/453.ad6eb26e.chunk.js": "/PoC-Hello-World/static/js/453.ad6eb26e.chunk.js",
+    "static/media/canada.png": "/PoC-Hello-World/static/media/canada.7721c6cc5a2445406610.png",
+    "index.html": "/PoC-Hello-World/index.html",
+    "main.05a93bc8.css.map": "/PoC-Hello-World/static/css/main.05a93bc8.css.map",
+    "main.5c8af33e.js.map": "/PoC-Hello-World/static/js/main.5c8af33e.js.map",
+    "453.ad6eb26e.chunk.js.map": "/PoC-Hello-World/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05a93bc8.css",
+    "static/js/main.5c8af33e.js"
+  ]
+}
